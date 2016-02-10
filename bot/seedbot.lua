@@ -234,7 +234,7 @@ function create_config( )
   
   Website:
   
-  Antispam Bot: @UmbrellaTG
+  Antispam Bot: @monsterTG
   Channel: @blackhatchannel
   Sudo (Admin): @black_hat_admin02
   (بات انتی اسپمر هیولا تلگرام)
